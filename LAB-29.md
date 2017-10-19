@@ -30,7 +30,7 @@ App
     NoteForm
     NoteList
       [NoteItem]
-        NoteForm
+         NoteForm
 ```
 
 
