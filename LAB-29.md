@@ -6,11 +6,7 @@
   * open a **new branch** and create **new pull request** and submit a link on canvas
   
 ## Feature Tasks 
-Refactor and add the following components. 
-
-
-
-#### NoteForm 
+#### Refactor the NoteForm 
 Modify the NoteForm component so that can be used for updating a note as well as creating a note 
 
 #### Refactor the NoteItem 
